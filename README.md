@@ -21,16 +21,6 @@ Visualization of Potential Savings:
 The system uses Plotly to create interactive visualizations, making it easier for users to understand and interpret the savings data. Graphs and charts highlight trends, predictions, and potential savings.
 
 
-## Installation
-**Clone the repository:**
-sh git clone https://github.com/yourusername/Purchase-Savings-Alert-System.git 
-
-**Navigate to the project directory:**
-sh cd Purchase-Savings-Alert-System
-
-**Install the required dependencies:**
-sh pip install -r requirements.txt
-
 
 ### Data Format
 Your purchase data should include the following columns:
@@ -45,8 +35,8 @@ Your purchase data should include the following columns:
 ## Examples
 ### Alert Generation
 The system generates alerts when it identifies potential savings opportunities. Alerts are color-coded based on the savings percentage:
-- **Green**: Significant savings (e.g., >10%)
-- **Yellow**: Moderate savings (e.g., 5 to 10%)
-- **Red**: Minor savings (e.g., <5%)
+- **Red**: Potential saving opportunities (e.g., >5%)
+- **Yellow**: Moderate savings opportunities  (e.g., <5%)
+
 
 you need to say, hey i want to buy these product with this much of quantity. and system will flag the items that you have buying more price than  what it should have and gives you potential saving alert to negotiate with the supplier or look for other potential suppliers.
