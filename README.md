@@ -32,11 +32,39 @@ Your purchase data should include the following columns:
 - **Quantity**: The quantity of the item purchased.
 - **Total Amount**: The total cost for the quantity purchased.
 
-## Examples
-### Alert Generation
-The system generates alerts when it identifies potential savings opportunities. Alerts are color-coded based on the savings percentage:
-- **Red**: Potential saving opportunities (e.g., >5%)
-- **Yellow**: Moderate savings opportunities  (e.g., <5%)
+The Purchasing Savings Alert System identifies and flags potential savings opportunities when you're about to make a purchase. This helps you optimize costs by negotiating better deals or finding alternative suppliers.
+
+**How It Works**
+
+Enter Purchase Details
+
+Specify the products you wish to buy and the desired quantity.
+Savings Opportunity Analysis
+
+The system analyzes each item’s price against target benchmarks (e.g., historical data or industry standards).
+It identifies items where you may be paying above the target rate.
+Receive Savings Alerts
+
+Based on the potential savings, the system generates color-coded alerts:
+Red Alert: Significant savings opportunity (e.g., over 5%). This indicates substantial room to negotiate or switch suppliers.
+Yellow Alert: Moderate savings opportunity (e.g., under 5%). Suggests some room for price improvement.
+
+**Take Action**
+
+Negotiate with the current supplier for a better rate.
+Or explore alternative suppliers to secure a more competitive price.
+Example
+You enter:
+
+Product: Item X
+Quantity: 100 units
+If Item X is priced above the target rate:
+
+Red Alert if potential savings exceed 5%.
+Yellow Alert if potential savings are below 5%.
 
 
-you need to say, hey i want to buy these product with this much of quantity. and system will flag the items that you have buying more price than  what it should have and gives you potential saving alert to negotiate with the supplier or look for other potential suppliers.
+**Benefits**
+Optimize Costs: Avoid overpaying by acting on price discrepancies.
+Increase Supplier Transparency: Make informed decisions about whether to negotiate or look elsewhere.
+Streamline Purchasing: Quickly identify and focus on the items with the highest savings potential.
