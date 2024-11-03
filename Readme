@@ -1,0 +1,6 @@
+Step which could be used to run the codes. 
+
+1. Establish the connection with mysql server using the valid credentials.
+2. Run the sql script to fetch the columns from the raw tables required for the projects and use case. 
+3. i have included the purchase data which we got after running the sql script
+3. run the python note book sequencially to test Alert the system set up configuration. details of each steps are included in the notebook.
