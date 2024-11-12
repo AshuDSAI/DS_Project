@@ -73,6 +73,6 @@ How to Cite This Project:
 
 If you would like to cite this project, please use the following format:
 
-Author-Date (Chicago Style):
+(Chicago Style):
 Sonu, Ashutosh Kumar. 2024. Optimizing Procurement in Hospitality: Developing an Intelligent Alert System for Cost-Effective Purchasing. Department of Computer Science, University of Exeter. GitHub. https://github.com/AshuDSAI/DS_Project.
 
