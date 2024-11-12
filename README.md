@@ -1,4 +1,4 @@
-# Procurement Savings Alert System
+## Optimizing Procurement in Hospitality: Developing an Intelligent Alert System for Cost-Effective Purchasing
 
 ## Overview
 The Purchase Savings Alert System is designed to help companies identify potential savings when purchasing items from suppliers. By analyzing historical purchase data, the system uses a machine learning model to predict future prices and identify opportunities for cost savings. This tool aims to assist procurement departments in making informed purchasing decisions, ultimately leading to reduced expenses and optimized buying strategies.
