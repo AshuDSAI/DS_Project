@@ -68,3 +68,11 @@ Yellow Alert if potential savings are below 5%.
 Optimize Costs: Avoid overpaying by acting on price discrepancies.
 Increase Supplier Transparency: Make informed decisions about whether to negotiate or look elsewhere.
 Streamline Purchasing: Quickly identify and focus on the items with the highest savings potential.
+
+How to Cite This Project:
+
+If you would like to cite this project, you can use the following format:
+
+(Chicago Style):
+Sonu, Ashutosh Kumar. 2024. Optimizing Procurement in Hospitality: Developing an Intelligent Alert System for Cost-Effective Purchasing. GitHub. https://github.com/AshuDSAI/DS_Project.
+
